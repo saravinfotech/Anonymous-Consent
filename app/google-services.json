@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873955919874",
+    "project_id": "anonymous-analytics",
+    "storage_bucket": "anonymous-analytics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873955919874:android:e75b383f8e6b3eeb8c7f1b",
+        "android_client_info": {
+          "package_name": "com.codelab.anonymousanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9k6-Zm8BF-ndLSiuFPEES9s0tNjOURo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
